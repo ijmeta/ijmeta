@@ -1,6 +1,6 @@
 ## Hi, I'm Joni 👋
 
-Awseome you landed here! I'm a product executive with 15+ years of incremental product experience and a builder at heart. 
+Awesome you landed here! I'm a product executive with 15+ years of incremental product experience and a builder at heart. 
 
 I'm building AI agents, opensource tutorials, creating the next unicorn as a solofounder.
 <!--
