@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Joni 👋
 
+Awseome you landed here! I'm a product executive with 15+ years of incremental product experience and a builder at heart. 
+
+I'm building AI agents, opensource tutorials, creating the next unicorn as a solofounder.
 <!--
 **ijmeta/ijmeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
